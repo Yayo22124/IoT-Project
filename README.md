@@ -36,39 +36,41 @@ Una de las formas más prácticas y cómunes para practicar o realizar prototipo
     </tr>
     <tr>
         <th style="text-align: left;background-color:#d6d6d6;padding:15px;">Proyecto</th>
-        <td>Aplicación Web de Atención y Gestión para
-Restaurante</td>
+        <td>Proyecto de Domótica Casa Automatizada</td>
     </tr>
     <tr>
         <th style="text-align: left;background-color:#d6d6d6;padding:15px;">Fecha de Preparación</th>
-        <td>Abril 2023</td>
+        <td>Noviembre 2023</td>
     </tr>
     <tr>
         <th style="text-align: left;background-color:#d6d6d6;padding:15px;">Cliente</th>
-        <td>Héctor V.</td>
+        <td>Ricardo Luna Santos</td>
     </tr>
     <tr>
         <th style="text-align: left;background-color:#d6d6d6;padding:15px;">Patrocinador Principal</th>
-        <td>Héctor V.</td>
+        <td>Ricardo Luna Santos</td>
     </tr>
     <tr>
         <th style="text-align: left;background-color:#d6d6d6;padding:15px;">Gerente / Líder de Proyecto</th>
-        <td>Héctor V.</td>
+        <td>Ricardo Luna Santos</td>
     </tr>
     <tr>
         <th style="text-align: left;background-color:#d6d6d6;padding:15px;">Gerente / Líder de análisis de negocio y requerimientos</th>
         <td>
         	Eli Haziel Ortiz Ramírez <br>
             Mariano Fajardo Islas <br>
-            Raúl Reyes Batalla <br>
-            Leslie Aparicio Castro
+            Alejandro Gonzalez Romero  <br>
+            Alina Bonilla Paredes  <br>
+            Irving Morales Dominguez  <br>
+            Alex Amauri Márquez Canales  <br>
+            Yulissa Ortega Cuevas
         </td>
     </tr>
 </table>
 
-## Propósito
+## Objetivo General
 
-A raíz de la modernización y actualización de los servicios en los últimos años, ha surgido la necesidad de crear una plataforma que facilitara a las personas a conocer y hacer uso de los servicios ofrecidos por el restaurante “SazónMáxico”. Dicha plataforma puede aumentar el alcance y ganancias de la empresa por el hecho de cubrir la necesidad de algunas personas para poder realizar reservaciones de mesas o contactar con administradores del restaurante de manera más dinámica, moderna y funcional.
+Desarrollar un prototipo para una casa 
 _ _ _
 
 ## :white_check_mark:Tecnologías Utilizadas
