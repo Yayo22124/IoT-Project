@@ -23,7 +23,9 @@
 
 ## Introducción
 
-La aplicación web ***SazónMáXico*** está diseñada para el restaurante del mismo nombre, con el objetivo de proporcionar a los clientes una experiencia digital interactiva y conveniente al acceder a los servicios y menús ofrecidos por el restaurante. La aplicación servirá como una plataforma en línea para que los clientes exploren el menú, reserven mesas y conozcan más sobre la propuesta culinaria de SazónMáXico.
+El IoT (Internet of Thinks) actualmente se ha convertido en una rama muy fundamental y valorada en el mundo tecnológico, ya que ha permitido obtener grandes avances en la tecnología y facilitado la vida de muchas personas automatizando tareas y actividades cotidianas. Una de las áreas con mucho peso del IoT es la **domótica**, la cual consiste en la automatización de una casa mediante el uso de **sistemas embebidos**. 
+
+Una de las formas más prácticas y cómunes para practicar o realizar prototipos de IoT es por medio de sistemas embebidos fáciles de programar como los Arduino UNO, ESP32, ESP8266 o las Rasperri Pi Pico. Los cuales consisten en sistemas independientes con la capacidad de ejecutar instrucciones generalmente programados haciendo uso del framework Arduino y su IDE.
 - - -
 
 ## Información del Proyecto
