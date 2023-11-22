@@ -97,8 +97,9 @@ _ _ _
 ## :white_check_mark: Tecnologías Utilizadas
 
 - Arduino IDE
-- Arduino UNO R3
-- Arduino NANO
+- Sistemas Embebidos Arduino:
+    - UNO R3
+    - NANO 
 - ESP32
 - Git
 
