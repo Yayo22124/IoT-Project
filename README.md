@@ -4,7 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/licence-utxj-green?style=for-the-badge&link=http%3A%2F%2Fwww.utxicotepec.edu.mx)
 
-![Static Badge](https://img.shields.io/badge/release%20date-agosto%202023-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/release%20date-diciembre%202023-blue?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/status-en%20desarrollo-brown?style=for-the-badge)
 
