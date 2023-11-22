@@ -97,27 +97,28 @@ _ _ _
 
 ## :white_check_mark: Tecnologías Utilizadas
 
-- Arduino IDE
+- Arduino IDE.
 - Placas de desarrollo:
-    - Arduino UNO R3
-    - Arduino NANO
-    - ESP32 
-- Git
+    - Arduino UNO R3.
+    - Arduino NANO.
+    - ESP32.
+- Git.
 
 ### Módulos y Materiales:
 - Maqueta prototipo a escala de un hogar.
-- Resistores
+  - Laminas de triplay. 
+- Resistores.
 - Cables y jumpers.
-- Bluetooth (HC-05)
-- Presence Sensor (HC-SR501)
-- Micro Servos (SG90)
-- RFID (RFID-RC522)
-- Servo Controller (PCA9685)
-- Gas Sensor (FC-22)
-- Temperature Sensor
-- LCD/OLED Display
-- Motores
-- Motor Control (L298N/L293D Control Shield)
+- Bluetooth (HC-05).
+- Presence Sensor (HC-SR501).
+- Micro Servos (SG90).
+- RFID (RFID-RC522).
+- Servo Controller (PCA9685).
+- Gas Sensor (FC-22).
+- Temperature Sensor.
+- LCD/OLED Display.
+- Motores.
+- Motor Control (L298N/L293D Control Shield).
 
 ---
 
