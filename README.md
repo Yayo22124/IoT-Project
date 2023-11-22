@@ -97,16 +97,19 @@ _ _ _
 ## :white_check_mark: Tecnologías Utilizadas
 
 - Arduino IDE
-- Sistemas Embebidos Arduino:
-    - UNO R3
-    - NANO 
-- ESP32
+- Placas de desarrollo:
+    - Arduino UNO R3
+    - Arduino NANO
+    - ESP32 
 - Git
 
-### Módulos:
-
+### Módulos y Materiales:
+- Maqueta prototipo a escala de un hogar.
+- Resistores
+- Cables y jumpers.
 - Bluetooth (HC-05)
-- Servos
+- Presence Sensor (HC-SR501)
+- Micro Servos (SG90)
 - RFID (RFID-RC522)
 - Servo Controller (PCA9685)
 - Gas Sensor (FC-22)
