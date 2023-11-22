@@ -75,30 +75,14 @@ _ _ _
 
 ## :white_check_mark:Tecnologías Utilizadas
 
-- MariaDB
-- HTML: 5
-- CSS: 3
-- JavaScript
-- PHP
-- Figma
-- Composer
-- Hostinger
+- Arduino IDE
+- Arduino UNO R3
+- Arduino NANO
+- ESP32
 - Git
 - - -
 
 ## Alcance del Producto / Software
-Considerando la investigación de datos demográficos y el cumplimiento de los objetivos propuestos. Se puede estimar que en sus versiones iniciales y preliminares de la aplicación web está puede interesar a visitantes o al público local como residentes de la zona.
-
-El proyecto busca facilitar la comunicación y las reservas entre el restaurante y sus clientes, por lo que puede ser de interés tanto para aquellos que ya conocen el restaurante y desean realizar reservas de manera más conveniente, como para aquellos que buscan descubrir nuevos lugares para comer y desean obtener información detallada y realizar reservas de forma sencilla.
-
-La plataforma web y la aplicación móvil pueden adaptarse a diferentes grupos demográficos y preferencias de uso. Los usuarios pueden acceder a la plataforma desde sus computadoras o dispositivos móviles, lo que permite una mayor flexibilidad y conveniencia.
 
 
 ## :hammer: Funcionalidades del Producto
-##### Registro de Reservas
-El usuario completará un formulario en línea con la fecha, hora y número de personas para su reserva. Después de enviar la solicitud, el usuario recibirá una confirmación de disponibilidad de mesas.
-##### Generación de Código de Barras
-El usuario recibirá un código de barras único en su dispositivo móvil después de realizar una reserva. Al llegar al restaurante, mostrará el código QR al personal para verificar y confirmar la reserva.
-##### Registro de Reseñas
-Después de visitar el restaurante, el usuario podrá escribir y enviar una reseña detallada sobre su experiencia culinaria, el servicio y el ambiente del restaurante. Esto proporcionará retroalimentación y ayudará a otros usuarios a tomar decisiones informadas.
-
