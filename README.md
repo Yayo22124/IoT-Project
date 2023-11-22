@@ -94,14 +94,27 @@ Diseñar y desarrollar una maqueta de una casa domótica automatizada utilizando
    - Documentar el proceso de diseño y desarrollo para facilitar la comprensión y replicación del proyecto.
 _ _ _
 
-## :white_check_mark:Tecnologías Utilizadas
+## :white_check_mark: Tecnologías Utilizadas
 
 - Arduino IDE
 - Arduino UNO R3
 - Arduino NANO
 - ESP32
 - Git
-- - -
+
+### Módulos:
+
+- Bluetooth (HC-05)
+- Servos
+- RFID (RFID-RC522)
+- Servo Controller (PCA9685)
+- Gas Sensor (FC-22)
+- Temperature Sensor
+- LCD/OLED Display
+- Motores
+- Motor Control (L298N/L293D Control Shield)
+
+---
 
 ## Alcance del Producto / Software
 
