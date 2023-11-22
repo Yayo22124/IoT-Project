@@ -14,12 +14,13 @@
 
 ## Índice
 
-- [Introducción](#Introducción)
-- [Información del Proyecto](#Información)
-- [Propósito](#Propósito)
-- [Tecnologías Utilizadas](#Tecnologías)
-- [Alcance del Producto / Software](#Alcance)
-- [Funcionalidades del Producto](#Funcionalidades)
+- [Introducción](#introducción)
+- [Información del Proyecto](#información-del-proyecto)
+- [Propósito](#propósito)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+  - [Módulos y Materiales](#módulos-y-materiales)
+- [Alcance del Producto / Software](#alcance-del-producto--software)
+- [Funcionalidades del Producto](#funcionalidades-del-producto)
 
 ## Introducción
 
