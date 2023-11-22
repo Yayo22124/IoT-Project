@@ -70,7 +70,29 @@ Una de las formas más prácticas y cómunes para practicar o realizar prototipo
 
 ## Objetivo General
 
-Desarrollar un prototipo para una casa 
+Diseñar y desarrollar una maqueta de una casa domótica automatizada utilizando tecnologías de Internet de las Cosas (IoT) y Arduino, con el propósito de proporcionar un entorno de aprendizaje integral para adquirir conocimientos prácticos en el ámbito de la programación, la electrónica y la automatización del hogar.
+
+## Objetivos Específicos
+## Objetivos Específicos
+
+1. **Configurar la Infraestructura IoT:**
+   - Establecer una red IoT que permita la comunicación eficiente entre los dispositivos.
+   - Seleccionar y configurar sensores y actuadores compatibles con Arduino para la recolección de datos y la ejecución de acciones en la maqueta.
+
+2. **Desarrollar el Sistema de Control:**
+   - Programar un sistema de control central utilizando Arduino para gestionar la información recibida de los sensores y controlar los actuadores.
+   - Implementar algoritmos de control para la automatización de funciones como la iluminación, la climatización y la seguridad.
+
+3. **Integrar Tecnologías de Conectividad:**
+   - Explorar y aplicar tecnologías de conectividad, como Wi-Fi o Bluetooth, para facilitar la interconexión de los dispositivos en la maqueta.
+
+4. **Desarrollar una Interfaz de Usuario:**
+   - El usuario debe poder interactuar con el sistema domótico.
+   - Utilizar módulos electrónicos como pantallas LCD o aplicaciones móviles interactuar con el sistema.
+
+5. **Fomentar la Educación y Documentación:**
+   - Elaborar material educativo, como tutoriales y manuales, que sirva como recurso para aprender sobre IoT y Arduino a través de la maqueta.
+   - Documentar el proceso de diseño y desarrollo para facilitar la comprensión y replicación del proyecto.
 _ _ _
 
 ## :white_check_mark:Tecnologías Utilizadas
