@@ -73,7 +73,6 @@ Una de las formas más prácticas y cómunes para practicar o realizar prototipo
 Diseñar y desarrollar una maqueta de una casa domótica automatizada utilizando tecnologías de Internet de las Cosas (IoT) y Arduino, con el propósito de proporcionar un entorno de aprendizaje integral para adquirir conocimientos prácticos en el ámbito de la programación, la electrónica y la automatización del hogar.
 
 ## Objetivos Específicos
-## Objetivos Específicos
 
 1. **Configurar la Infraestructura IoT:**
    - Establecer una red IoT que permita la comunicación eficiente entre los dispositivos.
